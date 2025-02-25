@@ -1,6 +1,6 @@
 
 import './App.css';
-import { PortfolioView } from './sections';
+import { PortfolioView } from './sections/portifolio/views';
 
 // ----------------------------------------------------------
 
