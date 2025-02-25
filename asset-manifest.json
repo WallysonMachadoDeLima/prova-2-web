@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/prova-2-web/static/css/main.f855e6bc.css",
+    "main.js": "/prova-2-web/static/js/main.2a421325.js",
+    "index.html": "/prova-2-web/index.html",
+    "main.f855e6bc.css.map": "/prova-2-web/static/css/main.f855e6bc.css.map",
+    "main.2a421325.js.map": "/prova-2-web/static/js/main.2a421325.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.2a421325.js"
+  ]
+}
